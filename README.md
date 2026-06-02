@@ -19,7 +19,7 @@ Bulk metallic glasses, biodegradable Mg-Ca implant alloys, supercooled-liquid dy
 - *J. Appl. Phys.* **136** (2024), **Featured Article**. BMGs vs crystalline alloys for bone-grafting applications.
 - *Physica Scripta* **98**, 115963 (2023). Liquid tungsten transport properties.
 
-[Full publication list on Google Scholar](https://scholar.google.com/citations?user=86g1wk4AAAAJ), h-index 3.
+[Full publication list on Google Scholar](https://scholar.google.com/citations?user=86g1wk4AAAAJ).
 
 ## Currently
 
