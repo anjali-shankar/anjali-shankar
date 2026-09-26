@@ -10,6 +10,7 @@ I'm a **computational physicist** (PhD) building **physics-aware machine-learnin
 - 2,000-geometry DFT training set (Quantum ESPRESSO) across crystal, liquid, supercooled and glassy states, with an active-learning round targeting the model's errors
 - LAMMPS + MACE (libtorch, Kokkos, CUDA) on multi-node A100 GPUs: **96% weak-scaling efficiency on 8 nodes**, up to 3.3x throughput from memory tuning
 - Zero-shot MACE reproduces the glass's Mg-to-Ca icosahedral-centre ratio (3.3, against 5.6 from experiment), where classical 2NN-MEAM gives 1.0
+- Completion expected Nov 2026, with a public release of the fine-tuned MLIP and a journal paper to follow
 - Co-Investigator on a PARAM Rudra (National Supercomputing Mission) A100 allocation
 
 I also write and review scientific-coding and physics evaluation tasks for frontier AI labs (Turing, Aligned, Handshake AI).
