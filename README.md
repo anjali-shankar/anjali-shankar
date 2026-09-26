@@ -2,13 +2,13 @@
 
 I'm a **computational physicist** (PhD) building **physics-aware machine-learning surrogates for atomistic simulation**. I handle the whole loop: DFT data, model training, validation against physics and experiment, and deployment on multi-node GPUs.
 
-🌐 **[anjali-shankar.github.io](https://anjali-shankar.github.io/)** · 📄 [CV (PDF)](Anjali_S_Rameja_resume.pdf)
+🌐 **[anjali-shankar.github.io](https://anjali-shankar.github.io/)** · 📄 [CV (PDF)](https://anjali-shankar.github.io/Anjali_S_Rameja_CV.pdf)
 
 ## Now
 
-**Fine-tuning the MACE-MPA-0 atomistic foundation model for Mg-Ca metallic glasses** (June 2026 to present)
-- 2,000-geometry DFT training set (Quantum ESPRESSO) across crystal, liquid, supercooled and glassy states, labelled in two active-learning rounds
-- LAMMPS + MACE (libtorch, Kokkos, CUDA 12.4) on A100 nodes: **132,137 atom-steps/s per node at 96.4% weak-scaling efficiency** on 8 nodes
+**Fine-tuning the MACE-MPA-0 atomistic foundation model for Mg-Ca metallic glasses** (independent researcher, 2026 to present)
+- 2,000-geometry DFT training set (Quantum ESPRESSO) across crystal, liquid, supercooled and glassy states, with an active-learning round targeting the model's errors
+- LAMMPS + MACE (libtorch, Kokkos, CUDA) on multi-node A100 GPUs: **96% weak-scaling efficiency on 8 nodes**, up to 3.3x throughput from memory tuning
 - Zero-shot MACE reproduces the glass's Mg-to-Ca icosahedral-centre ratio (3.3, against 5.6 from experiment), where classical 2NN-MEAM gives 1.0
 - Co-Investigator on a PARAM Rudra (National Supercomputing Mission) A100 allocation
 
